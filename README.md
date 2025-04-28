@@ -1,1 +1,2 @@
-# Simulation
+# My academic Project Exposure
+The purpose of my simulation project was to study and analyze different PWM (Pulse Width Modulation) techniques to improve the power quality of inverters. By simulating methods like PDPWM, PODPWM, APODPWM, and VFPWM in MATLAB, I aimed to observe how each technique affects the output voltage, waveform distortion, and overall inverter performance. The project helped me understand how advanced PWM strategies can reduce harmonics and improve efficiency, which is important for real-world applications like renewable energy systems and motor drives.
